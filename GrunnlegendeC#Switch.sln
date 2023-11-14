@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrunnlegendeC#Switch", "GrunnlegendeC#Switch\GrunnlegendeC#Switch.csproj", "{3FE64290-1899-4F56-95F7-08C1A8F3A3AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE64290-1899-4F56-95F7-08C1A8F3A3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE64290-1899-4F56-95F7-08C1A8F3A3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE64290-1899-4F56-95F7-08C1A8F3A3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE64290-1899-4F56-95F7-08C1A8F3A3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F743D557-0BC5-4C88-9A97-608057C4F81D}
+	EndGlobalSection
+EndGlobal
